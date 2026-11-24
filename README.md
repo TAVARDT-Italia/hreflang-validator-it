@@ -1,14 +1,13 @@
 # Validatore di Tag Hreflang e Architettura SEO Internazionale
 
 [![Validatore Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-tag-hreflang/)
-[![Giurisdizione](https://img.shields.io/badge/Giurisdizione-Italia-00C853.svg)](https://ag.tavardt.com/it/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Verifica tecnica di reciprocita dei collegamenti alternativi, codici di lingua e regione e tag x-default.
 
-Sviluppato e mantenuto dalla divisione di ingegneria semantica e SEO internazionale di **[TAVARDT Italia](https://ag.tavardt.com/it/)**.
+Sviluppato e mantenuto dalla divisione di ingegneria semantica e SEO internazionale di **TAVARDT Italia**.
 
----
+***
 
 ## Funzionalita di Verifica Hreflang e SEO Internazionale
 
@@ -18,7 +17,7 @@ Sviluppato e mantenuto dalla divisione di ingegneria semantica e SEO internazion
 * **Armonia con il Tag Canonical**: Rilevamento delle divergenze tra URL canonico e annotazione hreflang autoriferenziale.
 * **Punteggio di Salute Multilingue**: Metrica da 0 a 100 con passaggi di ottimizzazione tecnica.
 
----
+***
 
 ## Installazione ed Esecuzione
 
@@ -33,20 +32,20 @@ python hreflang_validator.py https://azienda.it
 Per generare il rapporto in formato strutturato JSON:
 
 ```bash
-python hreflang_validator.py https://azienda.it --json
+python hreflang_validator.py https://azienda.it -json
 ```
 
----
+***
 
 ## Diagnostica Completa sul Web
 
 Per verifiche estese di architetture web multilingue:
 
-* **[Validatore di Tag Hreflang Ufficiale](https://tools.tavardt.com/it/validatore-tag-hreflang/)**
+* **Validatore di Tag Hreflang Ufficiale**
 * **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
 
----
+***
 
 ## Consulenza in SEO Internazionale e Architettura Web
 
-Per progetti di internazionalizzazione conformi a Standard W3C e Linee Guida AgID, contattare il team di **[TAVARDT Italia](https://ag.tavardt.com/it/contatti/)**.
+Per progetti di internazionalizzazione conformi a Standard W3C e Linee Guida AgID, contattare il team di **TAVARDT Italia**.
