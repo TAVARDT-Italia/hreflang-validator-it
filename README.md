@@ -2,6 +2,7 @@
 
 [![Validatore Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-tag-hreflang/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Verifica tecnica di reciprocita dei collegamenti alternativi, codici di lingua e regione e tag x-default.
 
@@ -57,6 +58,11 @@ Per progetti di internazionalizzazione conformi a Standard W3C e Linee Guida AgI
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
 
 ***
 
