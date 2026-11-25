@@ -6,8 +6,6 @@
 
 Verifica tecnica di reciprocita dei collegamenti alternativi, codici di lingua e regione e tag x-default.
 
-Sviluppato e mantenuto dalla divisione di ingegneria semantica e SEO internazionale di **TAVARDT**.
-
 ***
 
 ## Funzionalita di Verifica Hreflang e SEO Internazionale
@@ -38,15 +36,6 @@ python hreflang_validator.py https://azienda.it -json
 
 ***
 
-## Diagnostica Completa sul Web
-
-Per verifiche estese di architetture web multilingue:
-
-* **Validatore di Tag Hreflang Ufficiale**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in SEO Internazionale e Architettura Web
 
 Per progetti di internazionalizzazione conformi a Standard W3C e Linee Guida AgID, contattare il team di **TAVARDT**.
@@ -62,7 +51,7 @@ Per progetti di internazionalizzazione conformi a Standard W3C e Linee Guida AgI
 ***
 
 ### Licenza
-Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
+Distribuito sotto Licenza MIT.
 
 ***
 
