@@ -10,7 +10,15 @@ Sviluppato e mantenuto dalla divisione di ingegneria di ricerca internazionale e
 
 ***
 
-## Funzionalita di Audit Hreflang e SEO Internazionale
+## Vettori di Rischio e Impatto Operativo nel SEO Internazionale
+
+Errori di sintassi nelle direttive hreflang causano spreco di crawl budget e declassamento nei motori di ricerca globali. Quando i link linguistici alternativi non sono reciproci, gli algoritmi di indicizzazione scartano le annotazioni regionali.
+
+Questa vulnerabilita espone le piattaforme italiane a cannibalizzazione dei contenuti ed instradamento errato dei visitatori nazionali. Il collaudo continuo garantisce che ciascun mercato acceda alla pagina corretta con integrita architetturale.
+
+***
+
+## Funzionalita Centrali di Audit Tecnico
 
 * **Verifica Tag Autoreferenziale**: Controllo automatico dell inclusione dell URL esaminato per garantire conformita ai requisiti di scansione.
 * **Ispezione Fallback x-default**: Validazione della destinazione predefinita per utenti al di fuori delle regioni geografiche target.
@@ -36,6 +44,25 @@ Per produrre l output in formato JSON strutturato in pipeline automatiche:
 ```bash
 python hreflang_validator.py https://azienda.it -j
 ```
+
+***
+
+## Domande Frequenti (FAQ Tecnico)
+
+### 1. Per quale motivo i motori di ricerca ignorano le direttive hreflang?
+La mancanza di collegamenti reciproci di ritorno e l omissione del tag autoreferenziale inducono Googlebot a invalidare le annotazioni. Questo strumento intercetta le asimmetrie prima che compromettano il posizionamento organico internazionale.
+
+### 2. Quale ruolo riveste la dichiarazione x-default in un architettura globale?
+La dichiarazione x-default agisce come destinazione predefinita per gli utenti provenienti da regioni prive di versione linguistica mirata. L assenza di questo fallback comporta scelte di instradamento arbitrarie che riducono le conversioni.
+
+### 3. In che modo il validatore rileva i conflitti tra link canonico e hreflang?
+Il motore estrae sia l indicazione canonical sia i link alternate per accertarne l allineamento perfetto. Qualsiasi divergenza genera una segnalazione critica e decurta il punteggio complessivo di 20 punti.
+
+### 4. Lo strumento analizza anche le intestazioni HTTP Link oltre al codice HTML?
+Si, il sistema analizza sia le dichiarazioni presenti nell head HTML sia quelle trasmesse tramite intestazione HTTP Link. Cio rende possibile il controllo di risorse prive di interfaccia grafica come file PDF o risposte API.
+
+### 5. Quali standard internazionali regolano i codici di lingua e regione?
+Viene verificata la conformita allo standard ISO 639-1 per le lingue a due caratteri e allo standard ISO 3166-1 alpha-2 per i paesi. Codici non validi o invertiti comportano penalizzazioni immediate nell indice di qualita.
 
 ***
 
