@@ -66,15 +66,6 @@ Viene verificata la conformita allo standard ISO 639-1 per le lingue a due carat
 
 ***
 
-## Diagnostica Completa sul Web
-
-Per verifiche approfondite ed analisi visiva delle annotazioni internazionali:
-
-* [Validatore Hreflang](https://tools.tavardt.com/it/validatore-tag-hreflang/)
-* [Portale Aziendale](https://ag.tavardt.com/it/)
-
-***
-
 ## Consulenza in SEO Internazionale e Architettura Web
 
 Per l ottimizzazione di piattaforme multilingua e l allineamento agli standard W3C, consultare il team di **TAVARDT**.
